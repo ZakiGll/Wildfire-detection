@@ -1,0 +1,7 @@
+path: E:\data science\Projects\wildfire detection\Fire_data
+train: images\train 
+val: images\valid  
+
+# Classes
+names:
+  0: fire
